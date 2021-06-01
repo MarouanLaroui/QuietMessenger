@@ -1,0 +1,48 @@
+
+________________________________________________________________________
+                         Communication commands                             
+________________________________________________________________________
+
+[message]                       Send a public message (to all)  
+/mp [recipient] [message]       Send a private message
+/all [message]                  Send a message to everyone in the server
+
+_________________________________________________________________________
+                         Room commands
+_________________________________________________________________________
+
+/changePseudo                   Change your pseudo for a new one
+/file                           Upload a file
+/filerequest                    Download a file
+/jroom                          Join a room
+/croom                          Create a room
+/rroom                          Rename a room
+/droom                          Delete a room
+/rooms                          Display all rooms
+/eroom                          Exit a room
+/whoishere                      Display the connected clients
+/end                            End the conversion (disconnect)
+
+_________________________________________________________________________
+                         Staff commands
+_________________________________________________________________________
+
+/promoteToAdmin                 Promote a client to admin
+/promoteToMod                   Promote a client to moderator
+/demote                         Demote a client
+/kick                           Kick a client from the server
+/kickFromRoom                   Kick a client from a room
+/ban                            Ban a client from the server
+/unban                          Unban a client from the server
+/move                           Move a client into a room
+
+
+_________________________________________________________________________
+                         Client management commands
+_________________________________________________________________________
+
+/changePassword                 Change your password for a new one
+/changePseudo                   Change your pseudo for a new one
+/deleteAccount                  Delete your account 
+
+_________________________________________________________________________

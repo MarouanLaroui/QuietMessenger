@@ -1,0 +1,3 @@
+Room1,1,Salle de discussion de test,
+Room2,1,Cette salle de discussion est basique,
+ok,-1,Description par défaut !,
